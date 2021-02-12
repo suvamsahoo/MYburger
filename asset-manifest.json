@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/MYburger/static/css/main.bff4fdfe.chunk.css",
+    "main.js": "/MYburger/static/js/main.f304186d.chunk.js",
+    "main.js.map": "/MYburger/static/js/main.f304186d.chunk.js.map",
+    "runtime-main.js": "/MYburger/static/js/runtime-main.6085b3dd.js",
+    "runtime-main.js.map": "/MYburger/static/js/runtime-main.6085b3dd.js.map",
+    "static/js/2.ef1a1726.chunk.js": "/MYburger/static/js/2.ef1a1726.chunk.js",
+    "static/js/2.ef1a1726.chunk.js.map": "/MYburger/static/js/2.ef1a1726.chunk.js.map",
+    "index.html": "/MYburger/index.html",
+    "static/css/main.bff4fdfe.chunk.css.map": "/MYburger/static/css/main.bff4fdfe.chunk.css.map",
+    "static/js/2.ef1a1726.chunk.js.LICENSE.txt": "/MYburger/static/js/2.ef1a1726.chunk.js.LICENSE.txt",
+    "static/media/burger-logo.ec69c7f6.png": "/MYburger/static/media/burger-logo.ec69c7f6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6085b3dd.js",
+    "static/js/2.ef1a1726.chunk.js",
+    "static/css/main.bff4fdfe.chunk.css",
+    "static/js/main.f304186d.chunk.js"
+  ]
+}
